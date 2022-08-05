@@ -1,0 +1,30 @@
+{
+  "name": "ariabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagokrugel/botAriaFutaba.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "thiago krügel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagokrugel/botAriaFutaba/issues"
+  },
+  "homepage": "https://github.com/thiagokrugel/botAriaFutaba#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "twit": "^2.2.11"
+  },
+  "engines": {
+    "node": ">= 6.9.4",
+    "npm": ">= 4.4.0"
+  }
+}
